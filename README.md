@@ -15,7 +15,7 @@ to get used to __Proximity Analysis__, using `geopandas` methods such as
 2. `> python3 exercise-proximity-analysis.py'
 
 ------------------------------------------------------------------
-## 1. Task
+## Task
 
 
    Every day someone injured in New York City in a car accident.
