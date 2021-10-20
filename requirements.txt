@@ -1,0 +1,9 @@
+geopandas==0.10.2
+geopy==2.2.0
+Shapely==1.6.4.post1
+folium==0.12.1
+plotly==5.3.1
+pretty-errors==1.2.20
+kaggle==1.5.12
+
+

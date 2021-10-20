@@ -10,9 +10,9 @@ to get used to __Proximity Analysis__, using `geopandas` methods such as
 ------------------------------------------------------------------
 ## How to run the Demo
 
-1. Load `proximity-analysis.ipynb` to Jupyter Notebook and run, or
+1. Load `exercise-proximity-analysis.ipynb` to Jupyter Notebook and run, or
 
-2. `> python3 proximity-analysis.py'
+2. `> python3 exercise-proximity-analysis.py'
 
 ------------------------------------------------------------------
 ## 1. Task
