@@ -32,7 +32,7 @@ to get used to __Proximity Analysis__, using `geopandas` methods such as
 ------------------------------------------------------------------
 ## Output
 
-   If the code runs well through, you should see the following picture
+   If the code runs through, you should see the following picture
    at the end.
 
 ![fig.1](./images/screenshot1.png)
