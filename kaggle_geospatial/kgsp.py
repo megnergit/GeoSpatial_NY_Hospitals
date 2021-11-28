@@ -25,6 +25,14 @@ def set_cwd(CWD):
 
 
 def set_data_dir(DATA_DIR, KAGGLE_DIR, GEO_DIR, CWD):
+    '''
+    DATA_DIR : Path()
+    KAGGLE_DIR : Path()    
+    GEO_DIR : Path()    
+    CWD : Path
+
+    '''
+
     if not Path(DATA_DIR).exists():
         command = 'kaggle d download ' + KAGGLE_DIR
         os.system(command)

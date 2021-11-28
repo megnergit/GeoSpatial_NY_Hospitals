@@ -29,7 +29,9 @@ to get used to __Proximity Analysis__, using `geopandas` methods such as
  2. Create a recommender system to tell ambulance drivers
     to which hospital (the nearest) they should transport the injured.
 
-
+------------------------------------------------------------------
+## Output
+![fig.1](./html/m_4b.html)
 ------------------------------------------------------------------
 ## Directory Tree
 ```
@@ -57,8 +59,10 @@ to get used to __Proximity Analysis__, using `geopandas` methods such as
 └── requirements.txt
 
 ```
-* `html` directory in the repo is intentionally kept empty. It will be
-   filled when the Python demo ran successfully. 
+
+<---!* `html` directory in the repo is intentionally kept empty. It will be
+   filled when the Python demo ran successfully. !--->
+
 * kgsp is a python module that contains functions used in the exercise. 
 ------------------------------------------------------------------
 END
